@@ -1,0 +1,8 @@
+﻿name: Misa_Mochi_美沙望
+text_file_encoding: utf-8
+image: profile.bmp
+portrait: profile.bmp
+portrait_opacity: 0.5
+web: https://soundcloud.com/meey-project/tracks
+version: "04.2022"
+default_phonemizer: OpenUtau.Plugin.Builtin.JapaneseCVVCPhonemizer

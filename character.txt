@@ -1,0 +1,5 @@
+image=profile.bmp
+name=Misa Mochi
+author=KrankerApfel
+sample=sample.wav
+version=04.2022
